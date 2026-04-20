@@ -15,13 +15,21 @@ https://www.youtube.com/watch?v=Xz_vNk3_0rc
   <img src="image/ticket-2.jpg" alt="POS Direct Print Pro 2" width="300" />
 </p>
 
-<p align="center">
-  <img src="image/setup-1.png" alt="POS Direct Print Pro 1" width="300" />
-  <img src="image/setup-2.png" alt="POS Direct Print Pro 2" width="300" />
-  <img src="image/setup-3.png" alt="POS Direct Print Pro 3" width="300" />
-  <img src="image/setup-4.png" alt="POS Direct Print Pro 4" width="300" />
-  <img src="image/setup-ssl.png" alt="POS Direct Print Pro SSL" width="300" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="image/setup-1.png" alt="POS Direct Print Pro 1" width="100%" /></td>
+    <td><img src="image/setup-2.png" alt="POS Direct Print Pro 2" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img src="image/setup-3.png" alt="POS Direct Print Pro 3" width="100%" /></td>
+    <td><img src="image/setup-4.png" alt="POS Direct Print Pro 4" width="100%" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="image/setup-ssl.png" alt="POS Direct Print Pro SSL" width="48%" />
+    </td>
+  </tr>
+</table>
 
 # 📬 Support
 

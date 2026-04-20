@@ -1,5 +1,5 @@
-# (WDU) Odoo Print Direct POS Receipt, Restaurant Faster (Easy Setup)
-Odoo Print Direct Windows/Linux/MacOs/Andoird/Ios
+# (WDU) POS Direct Print Pro (Easy Setup)
+Odoo Print Direct Windows/Andoird
 Bluethooth, WIFI/LAN/IP
 Linux/MacOs/Ios Coming Soon
 ---

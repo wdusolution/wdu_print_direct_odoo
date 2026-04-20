@@ -14,3 +14,14 @@ https://www.youtube.com/watch?v=Xz_vNk3_0rc
   <img src="image/ticket-1.jpg" alt="POS Direct Print Pro 1" width="300" />
   <img src="image/ticket-2.jpg" alt="POS Direct Print Pro 2" width="300" />
 </p>
+# 📬 Support
+
+If you need support or customization, feel free to contact us.
+
+## Contact
+- **YouTube Demo:** https://www.youtube.com/watch?v=Xz_vNk3_0rc
+- **Telegram:** https://t.me/wdusolution
+- **Email:** wdusolution@gmail.com
+- **GitHub:** https://github.com/wdusolution
+
+---

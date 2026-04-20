@@ -10,5 +10,7 @@
 https://www.youtube.com/watch?v=Xz_vNk3_0rc
 
 ---
-![POS Direct Print Pro 1](image/ticket-1.jpg)
-![POS Direct Print Pro 2](image/ticket-2.jpg)
+<p align="center">
+  <img src="image/ticket-1.jpg" alt="POS Direct Print Pro 1" width="300" />
+  <img src="image/ticket-2.jpg" alt="POS Direct Print Pro 2" width="300" />
+</p>

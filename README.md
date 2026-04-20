@@ -5,11 +5,12 @@
 # Linux/MacOs/Ios Coming Soon
 ---
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=Xz_vNk3_0rc)
-https://demo18.weodu.com/odoo?db=pos_print_pro
 ## 🎥 Demo Video
 📺 **YouTube:**  
 https://www.youtube.com/watch?v=Xz_vNk3_0rc
-
+---
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://demo18.weodu.com/odoo?db=pos_print_pro)
+https://demo18.weodu.com/odoo?db=pos_print_pro
 ---
 <p align="center">
   <img src="image/ticket-1.jpg" alt="POS Direct Print Pro 1" width="300" />

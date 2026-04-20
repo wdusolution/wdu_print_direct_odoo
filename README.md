@@ -10,3 +10,5 @@
 https://www.youtube.com/watch?v=Xz_vNk3_0rc
 
 ---
+![POS Direct Print Pro 1](image/ticket-1.jpg)
+![POS Direct Print Pro 2](image/ticket-2.jpg)

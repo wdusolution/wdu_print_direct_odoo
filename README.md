@@ -40,6 +40,6 @@ If you need support or customization, feel free to contact us.
 - **Telegram:** https://t.me/wdusolution
 - **Email:** wdusolution@gmail.com
 - **GitHub:** https://github.com/wdusolution
-- - **Website:** https://weodu.com
+- **Website:** https://weodu.com
 
 ---

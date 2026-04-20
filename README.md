@@ -1,4 +1,5 @@
 # (WDU) POS Direct Print Pro (Easy Setup)
+![POS Direct Print Pro](image/banner.jpg)
 Odoo Print Direct Windows/Andoird
 Bluethooth, WIFI/LAN/IP
 Linux/MacOs/Ios Coming Soon
